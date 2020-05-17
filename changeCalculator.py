@@ -1,10 +1,4 @@
-'''
-The program below implements a coin value calculator that calculates values of Quarter, Nickel, Penny and Dime, dollar and half dollar
-The program is implemented  using Tkinter module
 
-Author : Siddhi Naik
-
-'''
 
 from tkinter import *
 from tkinter import ttk
