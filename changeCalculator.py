@@ -3,7 +3,7 @@ The program below implements a coin value calculator that calculates values of Q
 The program is implemented  using Tkinter module
 
 Author : Siddhi Naik
-CWID: A20444173
+
 '''
 
 from tkinter import *
